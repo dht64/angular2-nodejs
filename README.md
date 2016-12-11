@@ -7,9 +7,9 @@ A simple project of creating random message using Angular 2 + NodeJS + Mongoose
 
 `npm start` (starts NodeJS server, separate terminal/ command line window)
 
-start mongoose 
+start mongodb: `mongod` 
 
-url: localhost:3000
+access via url: `localhost:3000`
 
 ## screenshot 
 ![front page] (https://c8.staticflickr.com/6/5696/30604282631_21a64a3020_z.jpg)
